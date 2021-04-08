@@ -1,4 +1,4 @@
-# DC Experiments for Semester 8
+# Distributed Computing Experiments for Semester 8
 
 This repository contains programs for Distributed Computing Subject of MU.  
 1. RMI Implementation using Java.
